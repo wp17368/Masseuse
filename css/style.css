@@ -51,7 +51,7 @@ section {
   min-height: 100vh;
   box-sizing: border-box;
 }
-/*the below is to delete the underline in all anchor links*/
+/*the below is to delete the underline in all anchor links.*/
 a:link {
   text-decoration: none;
 }
