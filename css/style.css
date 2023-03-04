@@ -133,7 +133,6 @@ a:link {
 .home {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  grid-template-rows: 1fr 3rem;
   align-items: center;
   justify-items: left;
   background: url(../jpgs/logo.jpg) no-repeat;
@@ -142,7 +141,6 @@ a:link {
   background-attachment: fixed;
 }
 .home .content {
-  margin-bottom: -15rem;
   max-width: 60rem;
 }
 .home .content h3 {
@@ -241,7 +239,7 @@ a:link {
 }
 .services .box-container .box {
   display: grid;
-  gap:1.5rem;
+  gap: 1.5rem;
   text-align: center;
   border: none;
 }
@@ -302,9 +300,6 @@ a:link {
   display: grid;
   align-items: center;
   background-color: var(--main-color);
-}
-.contact .heading {
-  margin-top: 0;
 }
 .contact .row {
   display: flex;
