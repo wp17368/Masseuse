@@ -374,9 +374,6 @@ a:link {
   background-color: none;
   font-weight: lighter;
 }
-.faq h1 {
-  margin-top: 0;
-}
 /*media queries*/
 @media (max-width: 1200px) {
   /*#menu-btn {
